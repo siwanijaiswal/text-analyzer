@@ -1,0 +1,24 @@
+
+  textarea {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+    border: 1px solid #ced4da;
+  }
+  
+  .btn {
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    background-color: rgb(148, 229, 229);
+  }
+
+  .sum {
+    background-color: rgb(153, 223, 223);
+    text-align: center;
+  }
+  .my-5{
+    text-align: center;
+  }
+  

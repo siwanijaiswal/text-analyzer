@@ -1,0 +1,20 @@
+.nav-item{
+    border: 2px solid rgb(28, 20, 20);
+    margin: 7px;
+    background-color: rgb(153, 223, 223);
+    font-weight: bold;
+    border-radius:10px;
+}
+
+.nav-link{
+    background-color: rgb(153, 223, 223);
+   border-color: aliceblue;
+   border-radius:10px;
+    /* font-weight: bold; */
+}
+.navbar-brand{
+    background-color: rgb(237, 136, 199);
+   border-color: aliceblue;
+   border-radius:10px;
+   list-style-type: none;
+}
